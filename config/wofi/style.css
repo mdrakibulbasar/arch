@@ -1,0 +1,41 @@
+window {
+margin: 0px;
+border: 2px solid #928374;
+background-color: #32302F;
+margin: 5px;
+}
+
+
+#input {
+margin: 5px;
+border: none;
+color: #458588;
+background-color: #1d2021;
+}
+
+#inner-box {
+margin: 5px;
+border: none;
+background-color: #282828;
+}
+
+#outer-box {
+margin: 5px;
+border: none;
+background-color: #282828;
+}
+
+#scroll {
+margin: 0px;
+border: none;
+}
+
+#text {
+margin: 5px;
+border: none;
+color: #458588;
+}
+
+#entry:selected {
+background-color: #1d2021;
+}unselected
